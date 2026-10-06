@@ -249,9 +249,13 @@ The dashboard contains four primary KPIs.
   |
   v
   Management Dashboard
+
+  
   Author
   Digambar Dharak
+  
   Project Type
   Excel MIS Dashboard
+  
   Domain
   Sales Performance Analysis and Management Information System
