@@ -1,0 +1,20 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore project documentation/media files
+*.docx
+*.mp4
+
